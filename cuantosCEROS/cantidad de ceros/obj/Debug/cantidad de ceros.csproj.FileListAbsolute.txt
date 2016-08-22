@@ -1,0 +1,18 @@
+c:\users\saul\documents\visual studio 2012\Projects\cantidad de ceros\cantidad de ceros\bin\Debug\cantidad de ceros.exe.config
+c:\users\saul\documents\visual studio 2012\Projects\cantidad de ceros\cantidad de ceros\bin\Debug\cantidad de ceros.exe
+c:\users\saul\documents\visual studio 2012\Projects\cantidad de ceros\cantidad de ceros\bin\Debug\cantidad de ceros.pdb
+c:\users\saul\documents\visual studio 2012\Projects\cantidad de ceros\cantidad de ceros\obj\Debug\cantidad de ceros.csprojResolveAssemblyReference.cache
+c:\users\saul\documents\visual studio 2012\Projects\cantidad de ceros\cantidad de ceros\obj\Debug\cantidad de ceros.exe
+c:\users\saul\documents\visual studio 2012\Projects\cantidad de ceros\cantidad de ceros\obj\Debug\cantidad de ceros.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\II semestre\cantidad de ceros\cantidad de ceros\bin\Debug\cantidad de ceros.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\II semestre\cantidad de ceros\cantidad de ceros\obj\Debug\cantidad de ceros.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\II semestre\cantidad de ceros\cantidad de ceros\obj\Debug\cantidad de ceros.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\cuantosCEROS\cantidad de ceros\bin\Debug\cantidad de ceros.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\cuantosCEROS\cantidad de ceros\obj\Debug\cantidad de ceros.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\cuantosCEROS\cantidad de ceros\obj\Debug\cantidad de ceros.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\cuantosCEROS\cantidad de ceros\bin\Debug\cantidad de ceros.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\cuantosCEROS\cantidad de ceros\bin\Debug\cantidad de ceros.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\cuantosCEROS\cantidad de ceros\obj\Debug\cantidad de ceros.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\cuantosCEROS\cantidad de ceros\bin\Debug\cantidad de ceros.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\cuantosCEROS\cantidad de ceros\obj\Debug\cantidad de ceros.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\cuantosCEROS\cantidad de ceros\obj\Debug\cantidad de ceros.pdb
